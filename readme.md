@@ -6,7 +6,7 @@ I come from a Python background, and after realizing that I want a deeper unders
 
 ## Projects
 
--  **1# basic_sum**
+-  **basic_sum**
 
 A basic **C** program that takes three **numbers(int num1, num2, num3)** as input, calculates their **sum(int sum)**, and displays the result.
 
