@@ -12,4 +12,5 @@ I come from a Python background, and after realizing that I want a deeper unders
 
 - **BASIC_CALCULATOR**
   
-  A small C project created to practice fundamentals such as structs, functions, input/output, and conditional logic. This program performs basic arithmetic operations (+, -, *, /) on two numbers.
+  A small C project created to practice fundamentals such as structs, functions, input/output, and conditional logic.
+  This program performs basic arithmetic operations (+, -, *, /) on two numbers.
