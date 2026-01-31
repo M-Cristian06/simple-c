@@ -10,3 +10,6 @@ I come from a Python background, and after realizing that I want a deeper unders
 
   A basic **C** program that takes three **numbers(int num1, num2, num3)** as input, calculates their **sum(int sum)**, and displays the result.
 
+- **BASIC_CALCULATOR**
+  
+  A small C project created to practice fundamentals such as structs, functions, input/output, and conditional logic. This program performs basic arithmetic operations (+, -, *, /) on two numbers.
